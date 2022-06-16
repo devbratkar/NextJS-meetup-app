@@ -1,1 +1,0 @@
-# NextJS-meetup-app
